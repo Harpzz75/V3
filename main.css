@@ -1,0 +1,134 @@
+@import url('https://fonts.googleapis.com/css?family=Anton&display=swap');
+
+@import url('https://fonts.googleapis.com/css?family=Anton|Noticia+Text&display=swap');
+
+@import url('https://fonts.googleapis.com/css?family=Anton|Bungee+Inline|Noticia+Text&display=swap');
+
+@import url('https://fonts.googleapis.com/css?family=Montserrat+Alternates:900');
+
+* {
+    box-sizing: border-box;
+}
+.box {
+    color:white;
+    font-size: 20px;
+    font-family: 'Montserrat Alternates', sans-serif;
+    text-align: center;
+    padding: 1
+5px;
+    width: 100%;
+}
+  
+  .box :hover {background-color: #ffffff;}
+  /* .box :hover {background-color: #962929;} */
+
+  /* .box1 :hover { background:#ffffff;}
+  .box2 :hover{ background:#ffffff;}
+  .box3 :hover{ background:#ffffff;}
+  .box4 :hover{ background:#ffffff;}
+  .box5 :hover{ background:#ffffff;}
+  .box6 :hover{ background:#ffffff;}
+  .box7 :hover{ background:#ffffff;}
+  .box8 :hover{ background:#ffffff;}
+  .box9 :hover{ background:#ffffff;}
+  .box10 :hover{ background:#ffffff;}
+  .box11 :hover{ background:#ffffff;}
+  .box12 :hover{ background:#ffffff;}
+  .box13 :hover{ background:#ffffff;}
+  .box14 :hover{ background:#ffffff;}
+  .box15 { background:#ffffff;}
+  .box16 { background:#ffffff;}
+  .box17 { background:#ffffff;}
+  .box18 { background:#ffffff;}
+  .box19 { background:#ffffff;}
+  .box20 { background:#ffffff;}
+  .box21 { background:#ffffff;}
+  .box22 { background:#ffffff;} */
+
+
+
+.container {
+    display: flex;
+    /* flex-wrap: wrap; */
+    /* flex-wrap: wrap; */
+    flex-direction: row;
+    width: 100%;
+    align-content: center;
+    padding: 10px;
+
+
+}
+
+.container1 {
+    display: flex;
+    background-color: rgb(255, 255, 255);
+    /* flex-wrap: wrap; */
+    /* flex-wrap: wrap; */
+    flex-direction: row;
+    width: 100%;
+    align-content: flex-start;
+    padding-top: 20px;
+    padding-left: 300px;
+    padding-right: 300px;
+    padding-bottom: 20px;
+    opacity: 0.5;
+
+
+}
+
+/* 
+
+.navbuttons {
+    color: rgb(255, 255, 255);
+    font-size: 80px;
+
+} */
+
+.large {
+
+    text-align: center;
+    font-family: 'Anton', sans-serif;
+    color: rgb(10, 7, 50);
+    font-size: 80px;
+    text-shadow: 5px 5px rgb(78, 107, 114);
+    line-height: 1.22;
+    padding-top: 50px;
+    padding-left: 290px;
+    padding-right: 290px;
+    padding-bottom: 50px;
+    
+   
+}
+
+.larger {
+
+    text-align: center;
+    font-family: 'Anton', sans-serif;
+    text-shadow: 5px 5px rgb(78, 107, 114);
+    color: rgb(10, 7, 50);
+    font-size: 200px;
+
+}
+
+
+
+.small {
+
+    font-family: 'Anton', sans-serif;
+font-family: 'Noticia Text', serif;
+    color: rgb(10, 7, 50);
+    font-size: 22px;
+    line-height: 1.5;
+    padding-left: 300px;
+    padding-right: 300px;
+    padding-top: 40px;
+    /* padding-bottom: 200px; */
+    /* text-shadow: 2px 2px rgb(7, 22, 26); */
+}
+
+
+
+
+/* #para1 {
+    color: blue;
+    } */
